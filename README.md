@@ -25,13 +25,25 @@ suppression d'une salle
 
 
 technologies utilisées 
+
 1/Java
+
+
 2/Swing
+
+
 3/Xampp
+
+
 4/Hibernate
+
+
 5/RMI(clientrmi et serveurrmi)
 
+
+
 Les fonctionnalités implementées
+
 CRUD (Create, Read, Update, Delete)
 
 

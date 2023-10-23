@@ -24,6 +24,20 @@ suppression d'une salle
 ![image](https://github.com/Eskoum/RMI/assets/147450023/3bc29a7f-3e04-40cf-8822-3101827bb5b3)
 
 
+technologies utilisées 
+1/Java
+2/Swing
+3/Xampp
+4/Hibernate
+5/RMI(clientrmi et serveurrmi)
+
+Les fonctionnalités implementées
+CRUD (Create, Read, Update, Delete)
+
+
+
+
+
 
 
 
